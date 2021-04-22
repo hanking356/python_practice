@@ -1,3 +1,5 @@
+#import json
+#from collections import OrderedDict
 import pandas as pd # 데이터를 처리하기 위한 가장 기본적인 패키지
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
@@ -12,9 +14,7 @@ import re
 from selenium.webdriver.chrome.options import Options
 import datetime as dt
 import pyperclip
-import json
-from collections import OrderedDict
-
+import csv
 
 url = 'https://www.youtube.com'
 driver = webdriver.Chrome('../ driver/chromedriver.exe')
@@ -82,6 +82,9 @@ for i in range(len(video_list0)):
     # 동영상 게시 날짜
     date = html3.find('div', {'id': 'date'}).text[1:12]
     date2 = date.replace(". ","-")
+    if date2[-1] == '.':
+        date2 = date2[:-1]
+
 
     # 좋아요수
     likes_num = html3.find('yt-formatted-string', {'id': 'text', 'class':
@@ -107,14 +110,54 @@ for i in range(len(video_list0)):
 
     print(per_url, per_video3, name, thumm, view2, likes_num2, unlikes_num2, date2)
 
-    file_data = OrderedDict()
+    f = open('students.csv', 'w', encoding='utf-8-sig', newline='')
+    wr = csv.writer(f)
 
-    file_data["이미지"] = thumm
-    file_data["싫어요"] = unlikes_num2
+    data_list. =
 
-    print(json.dumps(file_data, ensure_ascii=False, indent="\t"))
-    with open('video.json', 'w', encoding="utf-8") as make_file:
-         json.dump(file_data, make_file, ensure_ascii=False, indent="\t")
+    ####################################################################################
+    # json_data = {}
+    # json_data['post'] = []
+    # with open('video.json', "r") as make_file:
+    #     json_data = json.load(make_file)
+    # json_data['post'].append({
+    #     "이미지": thumm
+    # })
+    # with open('video.json', 'w', encoding="utf-8") as make_file:
+    #      json.dump(json_data, make_file, ensure_ascii=False, indent="\t")
+    # with open(file_path, "r") as json_file:
+    #     json_data = json.load(json_file)
+    ######################################################################################
+    # function to add to JSON
+    # def write_json(data, filename='video.json'):
+    #     with open(filename, 'w') as f:
+    #         json.dump(data, f, indent=4)
+    #
+    #
+    # with open('video.json', 'w', encoding="utf-8") as make_file:
+    #     data = json.load(make_file)
+    #
+    #     temp = data['emp_details']
+    #
+    #     # python object to be appended
+    #     y = {  "이미지": thumm
+    #          }
+    #
+    #     # appending data to emp_details
+    #     temp.append(y)
+    #
+    # write_json(data)
+
+
+    #
+    # file_data = OrderedDict()
+    #
+    # file_data["이미지"] = thumm
+    # file_data["싫어요"] = unlikes_num2
+    #
+    # print(json.dumps(file_data, ensure_ascii=False, indent="\t"))
+    # with open('video.json', 'w', encoding="utf-8") as make_file:
+    #      json.dump(file_data, make_file, ensure_ascii=False, indent="\t")
 
 
 
