@@ -9,9 +9,9 @@ import requests
 from bs4 import BeautifulSoup
 import urllib.request
 
-from selenium.webdriver import Chrome
-import re
-from selenium.webdriver.chrome.options import Options
+from selenium.webdriver import Chrome #드라이버 로드
+import re #정규 표현식 지원 모듈
+#from selenium.webdriver.chrome.options import Options
 import datetime as dt
 import pyperclip
 import csv
@@ -113,7 +113,6 @@ for i in range(len(video_list0)):
     f = open('students.csv', 'w', encoding='utf-8-sig', newline='')
     wr = csv.writer(f)
 
-    data_list. =
 
     ####################################################################################
     # json_data = {}

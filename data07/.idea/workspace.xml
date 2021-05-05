@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="808863a0-a562-4c97-98c7-8265b5d40362" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../data04/.idea/data04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data04/클래스만들기/Truck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data04/클래스만들기/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data04/클래스만들기/자동차.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data04/클래스사용하기/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data04/함수사용/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data04/함수사용/계산기사용.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data04/함수사용/다양한파라메터사용.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data04/함수사용/예외처리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data04/함수사용/함수를사용해보자.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data04/함수사용/함수를사용해보자2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data04/함수사용/함수확인문제.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data04/함수정의/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data04/함수정의/계산기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data04/함수정의/다양한파라메터.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data04/함수정의/문제함수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data04/함수정의/크롤링.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data04/함수정의/함수를모아보자.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0506/db연결/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0506/db연결/mysql연결모듈.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0506/db연결/mysql연결테스트.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0506/mysql_bbs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0506/mysql_bbs/bbs_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0506/mysql_bbs_crud사용/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0506/mysql_bbs_crud사용/all.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0506/mysql_bbs_crud사용/mysql.create1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0506/mysql_bbs_crud사용/mysql.read1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0506/mysql_bbs_crud사용/mysql.update1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0506/클래스만들기/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0506/클래스만들기/동물모듈.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0506/클래스만들기/매일.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0506/클래스만들기/사람모듈.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0506/클래스사용하기/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0506/클래스사용하기/mysqlcrud/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0506/클래스사용하기/mysqlcrud/mysql.create.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0506/클래스사용하기/mysqlcrud/mysql.create2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0506/클래스사용하기/mysqlcrud/mysql.create3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0506/클래스사용하기/mysqlcrud/mysql.delete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0506/클래스사용하기/mysqlcrud/mysql.read.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0506/클래스사용하기/mysqlcrud/mysql.read2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0506/클래스사용하기/mysqlcrud/mysql.read3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0506/클래스사용하기/mysqlcrud/mysql.update.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0506/클래스사용하기/나의하루.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0506/클래스사용하기/사람모듈사용.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0506/클래스사용하기/사람모듈사용2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data0506/클래스사용하기/사람모듈사용3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql_movie/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql_movie/movie_crud.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql_movie/webtoon_crud.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network연결/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network연결/zio_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network연결/네이버영화.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network연결/네이버웹툰.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data08/data/2010.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data08/data/2010.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data08/data/2011.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data08/data/2012.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data08/data/2012.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data08/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data08/dataframe살펴보기/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data08/dataframe살펴보기/데이터프레임으로읽어오기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data03/.idea/data03.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../data03/.idea/data03.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data03/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../data03/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day03/.idea/day03.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day03/.idea/day03.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day03/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day03/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day03/pack01/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/../day03/pack01/practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/Ch_selenium/image_crawling/video.json" beforeDir="false" afterPath="$PROJECT_DIR$/../project/Ch_selenium/image_crawling/video.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/Ch_selenium/image_crawling/youtube_crawling.py" beforeDir="false" afterPath="$PROJECT_DIR$/../project/Ch_selenium/image_crawling/youtube_crawling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/Ch_selenium/image_crawling/youtube_crawling2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../project/Ch_selenium/image_crawling/youtube_crawling2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/Ch_selenium/image_crawling/youtube_tv.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../project/Ch_selenium/image_crawling/youtube_tv.xlsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1r5u537o9AFgGhlpzyy4P4tXJFo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Bigdata\Han\python_project\data08\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.데이터프레임으로읽어오기 (1)">
+    <configuration name="데이터프레임으로읽어오기 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data08" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../data08/dataframe살펴보기" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../data08/dataframe살펴보기/데이터프레임으로읽어오기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="데이터프레임으로읽어오기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data08" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../data08/dataframe" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../data08/dataframe/데이터프레임으로읽어오기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.데이터프레임으로읽어오기 (1)" />
+        <item itemvalue="Python.데이터프레임으로읽어오기" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="808863a0-a562-4c97-98c7-8265b5d40362" name="Default Changelist" comment="" />
+      <created>1618278085057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618278085057</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
